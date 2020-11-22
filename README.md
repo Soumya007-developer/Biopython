@@ -1,2 +1,2 @@
 # Biopython
-Sequence analysis of COVID-19 using BioPython(In process!!!)
+Sequence analysis of COVID-19 genomes using BioPython.
